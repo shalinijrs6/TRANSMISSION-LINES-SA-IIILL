@@ -1,6 +1,6 @@
 # TRANSMISSION-LINES-SA-II
 # ⚔️ Operation Trinetra: RF Engineering in Battlefield Communication
-![image](https://github.com/user-attachments/assets/a18ba668-a253-4cf0-b285-0108f57f2b10)
+                                                    ![image](https://github.com/user-attachments/assets/a18ba668-a253-4cf0-b285-0108f57f2b10)
 
 
 # Introduction
@@ -42,10 +42,10 @@ Use in Trinetra: Minimize reflections from mismatched radar/drone antennas.
 # Real-Time Applications:
 Drone Antennas: Ensures that the antenna is properly matched to the transmitter. A high reflection coefficient would mean the drone’s camera feed or command signal may drop due to signal bouncing back.
 
-![image](https://github.com/user-attachments/assets/d499d449-20b5-4525-a568-3b63cb537ad1)
+                                                     ![image](https://github.com/user-attachments/assets/d499d449-20b5-4525-a568-3b63cb537ad1)
 
 # Voltage Standing Wave Ratio (VSWR)
-📘 Formula:
+ Formula:
 VSWR
 =
 1
