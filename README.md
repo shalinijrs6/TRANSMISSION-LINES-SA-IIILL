@@ -23,7 +23,7 @@ Drone-mounted spectrum analyzers
 
 # Impedance Matching (Smith Chart & Stubs)
 
-# Reflection Coefficient
+# 1.Reflection Coefficient
 Γ=𝑍𝐿−𝑍0/𝑍𝐿+𝑍0
  
 ​
@@ -44,7 +44,7 @@ Drone Antennas: Ensures that the antenna is properly matched to the transmitter.
 
 ![image](https://github.com/user-attachments/assets/d499d449-20b5-4525-a568-3b63cb537ad1)
 
-# Voltage Standing Wave Ratio (VSWR)
+# 2.Voltage Standing Wave Ratio (VSWR)
  Formula:
 VSWR
 =
@@ -70,6 +70,36 @@ Satellite Communication: Ground uplinks in army control centers are tuned to ach
 Combat Radios: Handheld or vehicle-mounted radios are tested for VSWR to ensure communication doesn’t fail mid-operation.
 
 ![image](https://github.com/user-attachments/assets/4ec99b87-44cc-4a46-8b2b-38c10e7dc38a)
+
+# 3. Return Loss (RL)
+ Formula:
+𝑅
+𝐿
+=
+−
+20
+⋅
+log
+⁡
+10
+(
+∣
+Γ
+∣
+)
+RL=−20⋅log 
+10
+​
+ (∣Γ∣)
+# Real-Time Applications:
+Special Forces Gear: Body-worn antennas in bulletproof vests are tested for high return loss to ensure minimum reflection from metal gear.
+
+RF Jammer Deployment: Units use return loss readings to determine how effectively a jammer is absorbing or radiating energy.
+
+Tactical Communication Nodes: Engineers monitor return loss to avoid signal degradation across cable connectors and adaptors.
+
+![image](https://github.com/user-attachments/assets/4eb40f37-9cef-48ff-b651-e8e3af1f0a9a)
+
 
 
 
