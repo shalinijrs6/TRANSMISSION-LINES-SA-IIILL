@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b25369c4-fb89-4b7d-aa4d-4aa8b0254329)# TRANSMISSION-LINES-SA-II
+# TRANSMISSION-LINES-SA-II
 # ⚔️ Operation Trinetra: RF Engineering in Battlefield Communication
   ![image](https://github.com/user-attachments/assets/a18ba668-a253-4cf0-b285-0108f57f2b10)
 
@@ -110,6 +110,51 @@ Microwave Relay Stations: Fixed stubs are used in transmission lines to match am
 UAV Communication Modules: Stub tuners are used inside UAV RF circuits to dynamically match impedances under varying load conditions (altitude, moisture, etc.).
 
 ![image](https://github.com/user-attachments/assets/596be3ea-d3d9-40f5-827b-00676c6ddcfd)
+
+# Guided Propagation (Cables, Waveguides)
+➤ Attenuation (Loss in dB)
+𝛼
+𝑑
+𝐵
+=
+10
+⋅
+log
+⁡
+10
+(
+𝑃
+𝑖
+𝑛
+𝑃
+𝑜
+𝑢
+𝑡
+)
+α 
+dB
+​
+ =10⋅log 
+10
+​
+ ( 
+P 
+out
+​
+ 
+P 
+in
+​
+ 
+​
+ )
+Loss in coax/waveguides.
+
+Used to determine cable lengths before signal degrades.
+
+
+
+
 
 
 
