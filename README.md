@@ -37,7 +37,6 @@ L
 𝑍
 0
 
-​
   = Characteristic Impedance (usually 50Ω)
 
 Use in Trinetra: Minimize reflections from mismatched radar/drone antennas.
