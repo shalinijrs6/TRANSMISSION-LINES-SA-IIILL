@@ -8,10 +8,16 @@ In March 2025, the Indian Armed Forces launched Operation Trinetra in the challe
 
 # Mission Overview
 Location: Tawang Ridge, Arunachal Pradesh
+
 Objective: Neutralize hostile infiltration via high-altitude surveillance
+
 Technologies Deployed:
+
 UHF/VHF radios for ground communication
+
 Microwave Line-of-Sight (LOS) backhaul links
+
 Fiber-guided RF signal boosters
+
 Drone-mounted spectrum analyzers
 
