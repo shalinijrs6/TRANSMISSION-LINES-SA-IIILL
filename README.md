@@ -21,27 +21,12 @@ Fiber-guided RF signal boosters
 
 Drone-mounted spectrum analyzers
 
-Impedance Matching (Smith Chart & Stubs)
+# Impedance Matching (Smith Chart & Stubs)
 
-➤ Reflection Coefficient
+# Reflection Coefficient
 Γ=𝑍𝐿−𝑍0/𝑍𝐿+𝑍0
-Γ= 
-Z 
-L
-​
- +Z 
-0
-​
- 
-Z 
-L
-​
- −Z 
-0
-​
  
 ​
- 
 Where:
 𝑍
 𝐿
