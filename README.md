@@ -1,4 +1,4 @@
-# TRANSMISSION-LINES-SA-II
+![image](https://github.com/user-attachments/assets/b25369c4-fb89-4b7d-aa4d-4aa8b0254329)# TRANSMISSION-LINES-SA-II
 # ⚔️ Operation Trinetra: RF Engineering in Battlefield Communication
   ![image](https://github.com/user-attachments/assets/a18ba668-a253-4cf0-b285-0108f57f2b10)
 
@@ -99,6 +99,22 @@ RF Jammer Deployment: Units use return loss readings to determine how effectivel
 Tactical Communication Nodes: Engineers monitor return loss to avoid signal degradation across cable connectors and adaptors.
 
 ![image](https://github.com/user-attachments/assets/4eb40f37-9cef-48ff-b651-e8e3af1f0a9a)
+
+# Stub Matching
+Concept: Use of short-circuited/open-circuited stubs to cancel out reactive components for impedance matching.
+# Real-Time Applications:
+Field-Deployable Antennas: Troops in rough terrain adjust stub lengths using portable Smith Charts to match the antenna to their radios.
+
+Microwave Relay Stations: Fixed stubs are used in transmission lines to match amplifiers and minimize signal loss in harsh conditions.
+
+UAV Communication Modules: Stub tuners are used inside UAV RF circuits to dynamically match impedances under varying load conditions (altitude, moisture, etc.).
+
+![image](https://github.com/user-attachments/assets/596be3ea-d3d9-40f5-827b-00676c6ddcfd)
+
+
+
+
+
 
 
 
