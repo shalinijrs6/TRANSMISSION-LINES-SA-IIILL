@@ -21,3 +21,52 @@ Fiber-guided RF signal boosters
 
 Drone-mounted spectrum analyzers
 
+Impedance Matching (Smith Chart & Stubs)
+➤ Reflection Coefficient
+Γ
+=
+𝑍
+𝐿
+−
+𝑍
+0
+𝑍
+𝐿
++
+𝑍
+0
+Γ= 
+Z 
+L
+​
+ +Z 
+0
+​
+ 
+Z 
+L
+​
+ −Z 
+0
+​
+ 
+​
+ 
+Where:
+𝑍
+𝐿
+Z 
+L
+​
+  = Load Impedance
+𝑍
+0
+Z 
+0
+​
+  = Characteristic Impedance (usually 50Ω)
+
+Use in Trinetra: Minimize reflections from mismatched radar/drone antennas.
+
+
+
