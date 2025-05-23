@@ -28,16 +28,14 @@ Drone-mounted spectrum analyzers
  
 ​
 Where:
-𝑍
-𝐿
+
 Z 
 L
 ​
   = Load Impedance
 𝑍
 0
-Z 
-0
+
 ​
   = Characteristic Impedance (usually 50Ω)
 
