@@ -176,27 +176,27 @@ In essence, every dB gained or lost, every match achieved or missed, and every i
 ![image](https://github.com/user-attachments/assets/943a094f-8d99-4540-a11c-6e7def3506a7)
 
 # References
-Ministry of Defence, Government of India
+1.Ministry of Defence, Government of India
 Official announcements and policies on defense modernization and communication systems.
 https://mod.gov.in
 
-Defence Research and Development Organisation (DRDO)
+2.Defence Research and Development Organisation (DRDO)
 Research and development in RF communication, radar, waveguides, and indigenous defense technology.
 https://www.drdo.gov.in
 
-Press Information Bureau (PIB), Government of India
+3.Press Information Bureau (PIB), Government of India
 Press releases, official statements, and updates related to military operations and defense technology.
 https://pib.gov.in
 
-IEEE Xplore Digital Library
+4.IEEE Xplore Digital Library
 Technical papers and research articles on RF/microwave engineering, communication systems, and electronic warfare.
 https://ieeexplore.ieee.org
 
-Indian Army Official Website
+5.Indian Army Official Website
 Updates on strategic communication systems and operational capabilities within the Indian Army.
 https://www.indianarmy.nic.in
 
-Army Technology Network
+6.Army Technology Network
 Coverage of current and emerging battlefield communication technologies and integrated defense systems.
 https://www.army-technology.com
 
