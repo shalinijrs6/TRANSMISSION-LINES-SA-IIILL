@@ -39,5 +39,36 @@ L
 
 Use in Trinetra: Minimize reflections from mismatched radar/drone antennas.
 
+# Real-Time Applications:
+Drone Antennas: Ensures that the antenna is properly matched to the transmitter. A high reflection coefficient would mean the drone’s camera feed or command signal may drop due to signal bouncing back.
+
+![image](https://github.com/user-attachments/assets/d499d449-20b5-4525-a568-3b63cb537ad1)
+
+# Voltage Standing Wave Ratio (VSWR)
+📘 Formula:
+VSWR
+=
+1
++
+∣
+Γ
+∣
+1
+−
+∣
+Γ
+∣
+VSWR= 
+1−∣Γ∣
+1+∣Γ∣
+​
+ # Real-Time Applications:
+Base Station Antennas: Engineers adjust antennas on army trucks to achieve VSWR close to 1, ensuring max signal strength.
+
+Satellite Communication: Ground uplinks in army control centers are tuned to achieve low VSWR for secure and efficient transmission.
+
+Combat Radios: Handheld or vehicle-mounted radios are tested for VSWR to ensure communication doesn’t fail mid-operation.
+
+
 
 
